@@ -7,3 +7,11 @@ Frequency (F) as total number of transactions: How many times has the customer p
 Monetary (M) as total money spent: How many $$ (or whatever is your currency of calculation) has this customer spent? Again limit to last two years – or take all time. Simply total up the money from all transactions to get the M value.
 
 Dataset from Kaggle, found at : _https://www.kaggle.com/vijayuv/onlineretail_
+
+
+Pandas Profiling (https://github.com/pandas-profiling/pandas-profiling) is used for Exploratory Data Analysis.
+
+The plots are saved as rfm-eda.html
+
+
+Autoviz (https://pypi.org/project/autoviz/) is used to visualise the dataset.
